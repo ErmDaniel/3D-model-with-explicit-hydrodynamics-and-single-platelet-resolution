@@ -1,0 +1,46 @@
+input data
+
+thrombus volume=18720.851886 micron^3
+input thrombus radius=23 micron
+average platelet radius=1.0133780978238223e-06 m
+cylinder radius=17 micron
+time_simulation=20 ms
+ext_act=0.35
+number of platelets=1289
+
+output data
+number of interacting pairs of platelets=4173
+
+corrections to get proper mesh
+number of corrected pairs of platelets=732
+initial volume=5996.955342192463 micron^3
+delta volume=172.0332138211279 micron^3
+delta percent=2.8686759197748657 %
+
+corrections near wall to get proper mesh
+number of corrected platelets=79
+initial volume=5824.922128371335 micron^3
+delta volume=11.26381927348848 micron^3
+delta percent=0.19337287306598894 %
+output comsol data
+
+real thrombus radius=23.429372406902655 micron
+real thrombus-vessel contact radius=23.191783273949152 micron
+internal radius=19.429372406902655 micron
+deep radius=11.714686203451327 micron
+real thrombus-vessel contact area=1.8107575844809826e-09 m^2
+z-projection of bulk hydrodynamic force=-3.2382402003873105e-08 N
+contact force=-5.618052729257298e-11 N
+internal velocity=-0.00020597993077715122 m/s
+deep velocity=-0.00026550442888616195 m/s
+surface 2 layers velocity=0.0023115700279270008 m/s
+internal porosity=0.6790925669466996
+deep porosity=0.7025386961405291
+inlet flow=-3.6283797203166437e-12 m^3/s
+thrombus surface area=1.493749870681564e-08 m^2
+average platelet radius=9.603013726868322e-07 m
+thrombus volume=1.9637633405918185e-14 m^3
+surface-to-volume ratio=760656.765408093 1/m
+time of computation in comsol=660.324492931366 s
+time of computation=6501.315062761307 s
+time of computation/n_platelets=5.043688954818702 s/plt
