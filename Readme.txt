@@ -7,7 +7,7 @@ Model uses Python, Numpy, Comsol Multiphysics software, and Mph project (https:/
 #use Pyhton 3.6-3.9 versions 
 1. install numpy via 'pip install numpy'
 2. install mph via 'pip install MPh'
-3. you will need Comsol Multiphysics to run simulations
+3. you will need Comsol Multiphysics (version 5.3 or later) to run simulations
 
 #usage example
 #set input parameters
